@@ -1,4 +1,4 @@
-# Spotify Songs Data Analysis
+# Spotify Songs Data Analysis 📈
 
 ## Overview
 This project explores the vast dataset of Spotify songs to uncover insights and patterns in music preferences. By analyzing various features of songs such as tempo, energy, danceability, and popularity, we aim to gain a deeper understanding of what makes a song popular and how different characteristics contribute to its success.
