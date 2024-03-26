@@ -10,12 +10,12 @@ With the explosion of digital music platforms like Spotify, understanding user p
 Exploratory Data Analysis (EDA) of Spotify's song dataset. Visualization of key song features such as tempo, energy, danceability, and more. Comparative analysis of popular genres and artist trends. Predictive modeling to identify factors influencing song popularity. Interactive dashboards for exploring music trends.
 
 ## Technologies Used
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Jupyter Notebook
+  - Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Jupyter Notebook
 
 ## Usage
 Clone the repository to your local machine. Navigate to the project directory. Run the Jupyter Notebooks to explore the analysis and visualizations. Customize and extend the analysis based on your own interests and questions. Data Source The dataset used in this project is sourced from the Spotify Web API, which provides a comprehensive collection of songs, artists, and their respective features.
